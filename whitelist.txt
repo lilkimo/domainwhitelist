@@ -1,0 +1,8 @@
+@@||riotgames.com^$important
+@@||riotcdn.net^$important
+@@||leagueoflegends.com^$important
+@@||discord.com^$important
+@@||discordapp.net^$important
+@@||discord.gg^$important
+@@||discordapp.com^$important
+@@||discord.media^$important
