@@ -1,9 +1,17 @@
+# Lol
 @@||riotgames.com^$important
 @@||riotcdn.net^$important
 @@||leagueoflegends.com^$important
 @@||lolesports.com^$important
+
+# Discord
 @@||discord.com^$important
 @@||discordapp.net^$important
 @@||discord.gg^$important
 @@||discordapp.com^$important
 @@||discord.media^$important
+
+# Aliexpress
+@@||img.alicdn.com^$important
+@@||s.click.aliexpress.com^$important
+@@||g.alicdn.com^$important
