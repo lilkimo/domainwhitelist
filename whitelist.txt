@@ -12,7 +12,8 @@
 @@||discord.media^$important
 
 # Aliexpress
-@@||img.alicdn.com^$important
 @@||s.click.aliexpress.com^$important
-@@||g.alicdn.com^$important
 @@||alicdn.com^$important
+
+# Micelánea
+@@||g2a.com^$important
