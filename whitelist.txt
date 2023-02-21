@@ -11,6 +11,9 @@
 @@||discordapp.com^$important
 @@||discord.media^$important
 
+# Amazon
+@@||amazonaws.com^$important
+
 # Aliexpress
 @@||s.click.aliexpress.com^$important
 @@||alicdn.com^$important
